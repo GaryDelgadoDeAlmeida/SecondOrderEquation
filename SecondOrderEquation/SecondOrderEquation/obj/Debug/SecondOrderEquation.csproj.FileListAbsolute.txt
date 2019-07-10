@@ -1,0 +1,7 @@
+C:\Users\garya\Documents\Developpment\Application\C#\SecondOrderEquation\SecondOrderEquation\bin\Debug\SecondOrderEquation.exe.config
+C:\Users\garya\Documents\Developpment\Application\C#\SecondOrderEquation\SecondOrderEquation\bin\Debug\SecondOrderEquation.exe
+C:\Users\garya\Documents\Developpment\Application\C#\SecondOrderEquation\SecondOrderEquation\bin\Debug\SecondOrderEquation.pdb
+C:\Users\garya\Documents\Developpment\Application\C#\SecondOrderEquation\SecondOrderEquation\obj\Debug\SecondOrderEquation.csprojAssemblyReference.cache
+C:\Users\garya\Documents\Developpment\Application\C#\SecondOrderEquation\SecondOrderEquation\obj\Debug\SecondOrderEquation.csproj.CoreCompileInputs.cache
+C:\Users\garya\Documents\Developpment\Application\C#\SecondOrderEquation\SecondOrderEquation\obj\Debug\SecondOrderEquation.exe
+C:\Users\garya\Documents\Developpment\Application\C#\SecondOrderEquation\SecondOrderEquation\obj\Debug\SecondOrderEquation.pdb
